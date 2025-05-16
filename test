@@ -3,5 +3,5 @@ return {
     pass2 = {player = "pl2", mode = 11},
     hello = {player = "tt_nonamescripts", mode = 4},
     hello1 = {player = "tt1_nonamescripts", mode = 4},
-    hello2 = {player = "tt2_nonamescripts", mode = 4},
+    hello12 = {player = "tt2_nonamescripts", mode = 4},
 }
